@@ -9,6 +9,7 @@ public class gitTest {
 		System.out.println("branch test");
 		System.out.println("feture-2");
 		int a = 2;
+		System.out.println("dev test");
 	}
 
 }
