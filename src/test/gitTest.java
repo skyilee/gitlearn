@@ -8,6 +8,7 @@ public class gitTest {
 		//System.out.println("change test files");
 		System.out.println("branch test");
 		System.out.println("feature 3");
+		int a = 3;
 	}
 
 }
